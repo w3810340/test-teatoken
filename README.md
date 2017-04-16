@@ -12,6 +12,6 @@ npm install --save-dev eslint-config-repoir
 
 ```js
 {
-	"extends": "repoir"
+    "extends": "repoir"
 }
 ```
