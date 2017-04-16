@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "description": "ESLint rules for the repoir project",
   "main": "index.js",
+  "scripts": {
+    "lint": "eslint -c index.js index.js",
+    "lint:fix": "npm run lint -- --fix",
+    "healthcheck": "npm run lint"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/repoir/eslint-config-repoir.git"
