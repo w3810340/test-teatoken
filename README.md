@@ -1,4 +1,4 @@
-# eslint-config-repoir [![Build Status](https://travis-ci.org/repoir/eslint-config-repoir.svg?branch=master)](https://travis-ci.org/repoir/eslint-config-repoir)
+# eslint-config-repoir [![Build Status](https://travis-ci.org/repoir/eslint-config-repoir.svg?branch=master)](https://travis-ci.org/repoir/eslint-config-repoir) [![dependencies Status](https://david-dm.org/repoir/eslint-config-repoir/status.svg)](https://david-dm.org/repoir/eslint-config-repoir)
 
 ESLint rules for the repoir project.
 
