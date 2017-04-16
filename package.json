@@ -19,5 +19,8 @@
   "homepage": "https://github.com/repoir/eslint-config-repoir#readme",
   "dependencies": {
     "eslint": "^3.19.0"
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }
