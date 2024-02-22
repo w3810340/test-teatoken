@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-repoir",
+  "name": "test-teatoken",
   "version": "0.1.1",
   "description": "ESLint rules for the repoir project",
   "main": "index.js",
@@ -10,13 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/repoir/eslint-config-repoir.git"
+    "url": "git+https://github.com/w3810340/test-teatoken.git"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/repoir/eslint-config-repoir/issues"
-  },
-  "homepage": "https://github.com/repoir/eslint-config-repoir#readme",
+  "homepage": "https:///github.com/w3810340/test-teatoken#readme",
   "dependencies": {
     "eslint": "^3.19.0"
   },
